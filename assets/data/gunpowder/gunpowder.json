@@ -9343,18 +9343,6 @@
 			}
 		],
 		"gfVersion": "gf",
-		"events": [
-			[
-				42197.8021978022,
-				[
-					[
-						"Alt Idle Animation",
-						"2",
-						"-alt"
-					]
-				]
-			]
-		],
 		"player3": null,
 		"song": "Gunpowder",
 		"stage": "stage",
