@@ -1,0 +1,6 @@
+idle 0 0
+singUP 51 2
+singRIGHT 20 2
+singLEFT 51 -5
+singDOWN 30 -38
+Wink 0 -4

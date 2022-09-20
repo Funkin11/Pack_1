@@ -3,7 +3,8 @@ spooky
 philly
 limo
 mall
-mallEvil
+evil-mall
 school
-schoolEvil
-tank
+school-mad
+evil-school
+wasteland
