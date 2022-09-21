@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "KivroMatt",
+    "spritesheetType": "SPARROW",
+    "barColor": [255, 140, 0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "mattidle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "mattleft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "mattdown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "mattup",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "mattright",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

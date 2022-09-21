@@ -38,7 +38,7 @@
 		{
             "name": "Wink",
             "animation_name": "Confident Matt Wink",
-            "fps": 12,
+            "fps": 24,
             "looped": false
         }
     ]
