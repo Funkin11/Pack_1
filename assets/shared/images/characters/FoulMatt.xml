@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FoulMatt.png">
+<SubTexture name="FoulMatt idle0000" x="0" y="899" width="231" height="401" frameX="-820" frameY="-343" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt idle0001" x="1303" y="417" width="231" height="412" frameX="-820" frameY="-332" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt idle0002" x="1009" y="425" width="231" height="422" frameX="-820" frameY="-322" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt idle0003" x="0" y="467" width="231" height="432" frameX="-820" frameY="-312" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt idle0004" x="547" y="0" width="231" height="440" frameX="-820" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt down0000" x="231" y="899" width="308" height="377" frameX="-750" frameY="-343" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt down0001" x="539" y="899" width="310" height="370" frameX="-750" frameY="-350" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt left0000" x="607" y="467" width="362" height="428" frameX="-721" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt left0001" x="231" y="467" width="376" height="430" frameX="-711" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt right0000" x="1009" y="0" width="294" height="425" frameX="-771" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt right0001" x="1303" y="0" width="301" height="417" frameX="-764" frameY="-323" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt up0000" x="278" y="0" width="269" height="458" frameX="-801" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt up0001" x="0" y="0" width="278" height="467" frameX="-796" frameY="-279" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt smile0000" x="778" y="0" width="231" height="440" frameX="-820" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt smile0001" x="778" y="0" width="231" height="440" frameX="-820" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="FoulMatt smile0002" x="778" y="0" width="231" height="440" frameX="-820" frameY="-304" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,3 +1,5 @@
+burnout:mattvoiidangry:0:Hard:#500096
+foul ball:mattfoul:0:Hard:#FF8C00
 boxing match:mattangry:0:Easy,Normal,Hard:#FF8C00
 king hit:mattconfident:0:Easy,Normal,Hard:#FF8C00
 sporting:mattangry:0:Easy,Normal,Hard:#FF8C00
