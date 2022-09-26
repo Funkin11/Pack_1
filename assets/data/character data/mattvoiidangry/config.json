@@ -4,6 +4,8 @@
     "imagePath": "wiik 2",
     "spritesheetType": "SPARROW",
     "barColor": [80,0,150],
+	"positionOffset": [0, 0],
+	"cameraOffset": [0, 0],
     "animations": [
         {
             "name": "idle",

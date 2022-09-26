@@ -4,6 +4,8 @@
     "imagePath": "bmatt",
     "spritesheetType": "SPARROW",
     "barColor": [0,148,248],
+	"positionOffset": [0, 0],
+	"cameraOffset": [0, 0],
     "deathCharacterName": "bmatt-dead",
     "animations": [
         {

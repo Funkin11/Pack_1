@@ -5,7 +5,7 @@
     "spritesheetType": "SPARROW",
     "barColor":  [255, 135, 0],
 	"positionOffset": [0, 160],
-	"cameraOffset": [0, 75],
+	"cameraOffset": [0, 90],
 	
     "animations": [
         {
