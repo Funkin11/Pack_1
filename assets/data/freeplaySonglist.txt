@@ -1,10 +1,10 @@
-burnout:mattvoiidangry:0:Hard:#500096
-foul ball:mattfoul:0:Hard:#FF8C00
-boxing match:mattangry:0:Easy,Normal,Hard:#FF8C00
-sporting voiid mix:mattvoiidangry:0:Hard:#500096
-king hit:mattconfident:0:Easy,Normal,Hard:#FF8C00
-sporting:mattangry:0:Easy,Normal,Hard:#FF8C00
-boxing match voiid mix:mattvoiidangry:0:Hard:#500096
+ballin:omattbmatt:0:Hard,6k Hard:#FF8C00
+finale:kadedev:0:Easy,Normal,Hard:#4B6448
+king hit:mattconfident:0:Easy,Normal,Hard,Old:#FF8C00
+endless battle:matt_hurt2:0:Hard:#FF8C00
+purgatory:matt_hurt2:0:Hard:#FF8C00
+better than you:brownshaggy:0:8k Hard:#4A1202
 revenge rev-mixed:bluematt:0:6k Hard:#3389FF
+unlimited instinct:rshaggy:0:12k Hard:#D11A1A
 
 

@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [-75, -200],
+    "barColor": [255,140,0],
+    "characters": [
+        {
+            "name": "kivromatt",
+            "positionOffset": [0,-20]
+        },
+        {
+            "name": "bluematt",
+            "positionOffset": [-200,5]
+        }
+    ]
+}
