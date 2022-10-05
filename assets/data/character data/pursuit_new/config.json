@@ -1,0 +1,41 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "matt_new",
+    "spritesheetType": "SPARROW",
+    "barColor": [128,72,32],
+	"positionOffset": [0, 25],
+	"cameraOffset": [0, 0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "matt idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "matt left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "matt down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "matt up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "matt right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}
