@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [-40, -250],
+    "barColor": [195, 121, 25],
+    "characters": [
+        {
+            "name": "red-shaggy",
+            "positionOffset": [0,0]
+        },
+        {
+            "name": "mattblue",
+            "positionOffset": [-325,0]
+        }
+    ]
+}

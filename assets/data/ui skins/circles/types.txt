@@ -1,5 +1,0 @@
-default
-death
-caution
-cautiongod
-hurt

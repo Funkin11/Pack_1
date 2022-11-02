@@ -1,5 +1,5 @@
 default
 death
 caution
-cautiongod
+cautionnerf
 hurt

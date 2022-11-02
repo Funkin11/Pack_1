@@ -1,10 +1,2 @@
+miiboxingarena
 stage
-spooky
-philly
-limo
-mall
-evil-mall
-school
-school-mad
-evil-school
-wasteland
